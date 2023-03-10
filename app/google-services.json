@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "752297356080",
+    "project_id": "easy-food-ed236",
+    "storage_bucket": "easy-food-ed236.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752297356080:android:78d7ddf9448229e8cfb6f5",
+        "android_client_info": {
+          "package_name": "com.example.lastorderfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752297356080-j0v0lg4neods2u56fvsqqau18rh83epg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtvomS8MGu4qo4J0ovBYQ4Nb3mp48laZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752297356080-j0v0lg4neods2u56fvsqqau18rh83epg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

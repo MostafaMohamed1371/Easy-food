@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/projects_training/lastorderfood/app/src/main/res/layout/activity_main.xml" value="0.1792452830188679" />
+        <entry key="..\:/android/projects_training/lastorderfood/app/src/main/res/menu/icon_bottom.xml" value="0.1" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/drawable/ic_arrow.xml" value="0.1835" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/drawable/ic_category.xml" value="0.1495" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/drawable/ic_email.xml" value="0.1835" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/drawable/ic_favorite.xml" value="0.1495" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/drawable/ic_home.xml" value="0.1495" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/drawable/ic_search.xml" value="0.1495" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/drawable/login_shape.xml" value="0.134" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/drawable/press_button.xml" value="0.134" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/drawable/shape.xml" value="0.134" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/drawable/shape_botton.xml" value="0.198" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/drawable/shape_box.xml" value="0.1205" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/font/font_size.xml" value="0.23958333333333334" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/layout-keysexposed/fragment_search.xml" value="0.25" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/layout/activity_category_meals.xml" value="0.2346014492753623" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/layout/activity_forget_password.xml" value="0.20521590423257802" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/layout/activity_meal.xml" value="0.10997267759562841" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/layout/activity_splash.xml" value="0.2346014492753623" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/layout/activity_splash2.xml" value="0.176" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/layout/category_items.xml" value="0.2" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/layout/fragment_account.xml" value="0.20521590423257802" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/layout/fragment_categories.xml" value="0.176" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/layout/fragment_favourit.xml" value="0.152" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/layout/fragment_home.xml" value="0.176" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/layout/fragment_meal_bottom_sheet.xml" value="0.25" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/layout/fragment_search.xml" value="0.264" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/layout/fragment_splash.xml" value="0.2346014492753623" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/layout/hardware.xml" value="0.20521590423257802" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/layout/meals_item.xml" value="0.2346014492753623" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/layout/popular_items.xml" value="0.1" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/menu/icon_bottom.xml" value="0.17222222222222222" />
+        <entry key="..\:/android/projects_training/lastorderfood2/app/src/main/res/menu/navigation.xml" value="0.20521590423257802" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

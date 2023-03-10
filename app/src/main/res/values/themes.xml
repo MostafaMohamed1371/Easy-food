@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.LastOrderFood" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/accent</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/accent</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="exampleToast">
+        <item name="stTextBold">true</item>
+        <item name="stTextColor">@color/black</item>
+        <item name="stFont">@font/myfont</item>
+        <item name="stTextSize">@dimen/_10ssp</item>
+        <item name="stColorBackground">@color/accent</item>
+        <item name="stStrokeWidth">@dimen/_3sdp</item>
+        <item name="stStrokeColor">@color/black</item>
+        <item name="stIconStart">@drawable/ic_food</item>
+        <item name="stLength">SHORT</item>
+    </style>
+</resources>
