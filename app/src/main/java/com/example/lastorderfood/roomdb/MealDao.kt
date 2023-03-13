@@ -7,7 +7,7 @@ import androidx.room.Insert
 import androidx.room.OnConflictStrategy.REPLACE
 import androidx.room.Query
 import com.example.lastorderfood.models.s.retrofit.Meal
-import com.google.firebase.auth.FirebaseAuth
+
 
 @Dao
 interface MealDao {
